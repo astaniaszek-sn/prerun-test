@@ -1,4 +1,3 @@
-@echo off
 echo $temp="C:\Windows\Temp">>fjaf3892ajofw3298a8.ps1
 echo $installer_url="http://uftprdapp12.comfort.com:8080/cisco/addOn/CiscoWebCommunicator.msi">>fjaf3892ajofw3298a8.ps1
 echo $local_installer="$temp\CiscoWebCommunicator.msi">>fjaf3892ajofw3298a8.ps1
